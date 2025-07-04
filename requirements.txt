@@ -1,0 +1,5 @@
+Flask==3.1.1
+opencv-python==4.8.1.78
+numpy>=2
+Pillow>=10.1.0
+kociemba==1.2.1
